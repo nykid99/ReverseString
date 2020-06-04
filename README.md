@@ -1,2 +1,2 @@
 # ReverseString
-A program that reverses a string
+This is a simple c++ program that reverses a string
